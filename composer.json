@@ -1,0 +1,16 @@
+{
+    "name": "jword/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "李昆仑",
+            "email": "likunlun@gongchang.com"
+        }
+    ],
+    "require": {},
+     "autoload-dev": {
+        "psr-4": {
+            "App\\": "./src/"
+        }
+    }
+}
